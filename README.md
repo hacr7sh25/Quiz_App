@@ -55,11 +55,6 @@ Make sure the following `.wav` files are in the **same folder** as your Java fil
 
 ---
 
-## 🖼 **Screenshots (Optional)**  
-You can add **screenshots** of the application UI for better presentation.  
-
----
-
 ## 🏆 **Future Improvements**  
 🔹 **Animations for UI transitions**  
 🔹 **Multiple Quiz Categories**  
